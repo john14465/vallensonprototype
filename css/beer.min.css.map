@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/beer.scss",
+        "../sass/main.scss"
+    ],
+    "names": [],
+    "file": "beer.min.css"
+}
